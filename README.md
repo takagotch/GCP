@@ -2,6 +2,11 @@
 ---
 https://github.com/GoogleCloudPlatform
 
+###### console
+https://console.cloud.google.com/compute/instances?organizationId=0&project=enhanced-canyon-181212
+
+
+
 ```py
 // https://github.com/GoogleCloudPlatform/python-docs-samples
 // trace/main_test.py
