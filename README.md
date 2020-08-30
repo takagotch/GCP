@@ -5,6 +5,17 @@ https://github.com/GoogleCloudPlatform
 ###### console
 https://console.cloud.google.com/compute/instances?organizationId=0&project=enhanced-canyon-181212
 
+```sh
+gcloud compute ssh instance-1
+
+
+
+
+```
+
+```
+```
+
 
 
 ```py
